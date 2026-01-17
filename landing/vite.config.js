@@ -11,4 +11,9 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
+  server: {
+    allowedHosts: [
+      'headphones-purchased-main-realtor.trycloudflare.com'
+    ]
+  }
 })

@@ -70,19 +70,19 @@
               </div>
               <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Штрафы, предписания и замечания после проверок</p>
             </div>
-            <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-blue-50 row-start-2 col-span-2 max-lg:col-span-1">
+            <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-blue-50">
               <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
                 <i class="bi bi-building text-2xl max-lg:text-xl"></i>
               </div>
               <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Подготовка к открытию нового ресторана / кухни / производства</p>
             </div>
-            <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-blue-50 row-span-2 max-lg:row-span-1">
+            <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-blue-50 col-span-3 max-lg:col-span-1">
               <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
                 <i class="bi bi-shield-exclamation text-2xl max-lg:text-xl"></i>
               </div>
-              <div class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">
+              <div class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%] flex gap-4 max-lg:flex-col">
                 <div>Страх внеплановых проверок и неуверенность в готовности кухни</div>
-                <div class="text-sm lg:text-base font-medium leading-[120%] text-gray-500 mt-8">* c 2025 года перестал действовать мораторий на внеплановые проверки согласно Постановлению Правительства РФ от 10.03.2022 № 336</div>
+                <div class="text-sm lg:text-base font-medium leading-[120%] text-gray-500 max-lg:mt-8">* c 2025 года перестал действовать мораторий на внеплановые проверки согласно Постановлению Правительства РФ от 10.03.2022 № 336</div>
               </div>
             </div>
           </div>
@@ -97,7 +97,7 @@
 
       <!-- Solution Section -->
       <section class="py-12 lg:py-24 bg-[#F4F4F4]">
-        <div class="max-w-[1440px] mx-auto px-4 md:px-10 lg:px-[40px]">
+        <div class="max-w-[1440px] mx-auto px-4 md:px-10 lg:px-[40px] flex flex-col items-center">
           <h2 class="text-[32px] lg:text-[48px] font-medium leading-[120%] text-center text-[#1E1E1E] mb-12">
             Мы поможем разобраться до того, как придёт проверка
           </h2>
@@ -111,49 +111,55 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Внешний выездной аудит кухни и процессов</p>
+              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[150%]">Внешний <span class="border-b-4 border-blue-500">выездной аудит</span> кухни и процессов</p>
             </div>
             <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-white">
-              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
+              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[150%]">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Анализ рисков и критических точек по ХАССП</p>
+              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[150%]">Анализ <span class="border-b-4 border-blue-500">рисков и критических точек</span> по ХАССП</p>
             </div>
             <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-white">
-              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
+              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[150%]">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Документирование всех стадий и процедур</p>
+              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[150%]"><span class="border-b-4 border-blue-500">Документирование</span> всех стадий и процедур</p>
             </div>
             <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-white">
-              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
+              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[150%]">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Разработка системы мониторинга и ответственности</p>
+              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[150%]">Разработка <span class="border-b-4 border-blue-500">системы мониторинга</span> и ответственности</p>
             </div>
             <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-white">
-              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
+              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[150%]">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Разработка корректирующих действий</p>
+              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[150%]">Разработка <span class="border-b-4 border-blue-500">корректирующих действий</span></p>
             </div>
             <div class="flex flex-col md:flex-row lg:flex-col gap-4 p-6 rounded-3xl lg:rounded-[24px] bg-white">
-              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[120%]">
+              <div class="flex w-8 h-8 lg:w-11 lg:h-11 justify-center items-center aspect-square rounded-[40px] bg-blue-100 text-[#1E1E1E] text-base font-medium leading-[150%]">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[120%]">Обучение персонала по должностным инструкциям: кто за что отвечает</p>
+              <p class="text-[#1E1E1E] text-xl lg:text-2xl font-medium leading-[150%]"><span class="border-b-4 border-blue-500">Обучение персонала</span> по должностным инструкциям: кто за что отвечает</p>
             </div>
           </div>
+          <a href="https://t.me/HimcentreHaccpAuditBot?start=audit" target="_blank" class="inline-flex items-center justify-center gap-2.5 h-[72px] lg:h-14 rounded-[36px] lg:rounded-[28px] px-12 lg:px-7 text-2xl lg:text-xl font-semibold leading-[120%] cursor-pointer transition-colors duration-200 bg-[#1E1E1E] text-white hover:bg-white hover:text-[#1E1E1E] [&_svg_path]:fill-white hover:[&_svg_path]:fill-[#1E1E1E] max-md:w-full mt-12">
+            Заказать аудит
+            <svg class="min-w-[28px] ml-2" width="28" height="32" viewBox="0 0 28 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M27.9187 6.1625L23.6937 26.0875C23.375 27.4937 22.5437 27.8438 21.3625 27.1812L14.925 22.4375L11.8187 25.425C11.475 25.7687 11.1875 26.0562 10.525 26.0562L10.9875 19.5L22.9187 8.71875C23.4375 8.25625 22.8062 8 22.1125 8.4625L7.36246 17.75L1.01246 15.7625C-0.368794 15.3313 -0.393794 14.3813 1.29996 13.7188L26.1375 4.15C27.2875 3.71875 28.2937 4.40625 27.9187 6.1625Z"/>
+            </svg>
+          </a>
         </div>
       </section>
 
@@ -164,7 +170,7 @@
             Аудит проводит сертифицированный специалист по России и странам СНГ
           </h2>
           <div class="grid md:grid-cols-2 gap-8 lg:gap-14 items-center">
-            <div class="flex justify-center">
+            <div class="flex justify-start self-start">
               <img 
                 src="/ekaterina-2.webp" 
                 alt="Екатерина Куницына" 
@@ -230,7 +236,7 @@
                     <path d="M27.9187 6.1625L23.6937 26.0875C23.375 27.4937 22.5437 27.8438 21.3625 27.1812L14.925 22.4375L11.8187 25.425C11.475 25.7687 11.1875 26.0562 10.525 26.0562L10.9875 19.5L22.9187 8.71875C23.4375 8.25625 22.8062 8 22.1125 8.4625L7.36246 17.75L1.01246 15.7625C-0.368794 15.3313 -0.393794 14.3813 1.29996 13.7188L26.1375 4.15C27.2875 3.71875 28.2937 4.40625 27.9187 6.1625Z"/>
                   </svg>
                 </a>
-                <a href="https://t.me/HimcentreHaccpAuditBot?start=checklist" target="_blank" class="inline-flex items-center justify-center gap-2.5 py-4 rounded-[36px] lg:rounded-full px-6 lg:px-7 text-2xl lg:text-xl font-semibold leading-[120%] cursor-pointer transition-colors duration-200 bg-white text-[#1E1E1E] hover:bg-[#1E1E1E] hover:text-white [&_svg_path]:fill-[#1E1E1E] hover:[&_svg_path]:fill-white max-md:w-full">
+                <a href="https://t.me/HimcentreHaccpAuditBot?start=checklist" target="_blank" class="inline-flex items-center justify-center gap-2.5 py-4 rounded-[36px] lg:rounded-full px-6 lg:px-7 text-2xl lg:text-xl font-semibold leading-[120%] cursor-pointer transition-colors duration-200 bg-white text-[#1E1E1E] hover:bg-[#1E1E1E] hover:text-white [&_svg_path]:fill-[#1E1E1E] hover:[&_svg_path]:fill-white max-md:w-full border-2 border-[#1E1E1E]">
                   Получить бесплатный чек-лист проверки кухни
                 </a>
               </div>
