@@ -212,10 +212,10 @@ async function handleChecklistResponse(ctx) {
 
       // Отправляем PDF (путь нужно будет настроить)
       try {
-        const pdfPath = join(__dirname, 'Провека кухни - ХАССП.pdf');
+        const pdfPath = join(__dirname, 'Чек-лист ХАССП.pdf');
         await ctx.replyWithDocument({
           source: readFileSync(pdfPath),
-          filename: 'Провека кухни - ХАССП.pdf'
+          filename: 'Чек-лист ХАССП.pdf'
         });
       } catch (e) {
         console.error('Ошибка при отправке PDF:', e);
