@@ -5,8 +5,8 @@
       <div class="max-w-[1440px] mx-auto px-4 md:px-10 lg:px-[40px] py-4 flex justify-between items-center">
         <img class="h-[50px] hidden md:block" src="/logo.svg" alt="Химэкоцентр">
         <img class="h-[50px] block md:hidden" src="/logo-mobile.svg" alt="Химэкоцентр">
-        <a href="tel:+73952951966" class="inline-flex items-center justify-center gap-2.5 h-12 lg:h-9 rounded-3xl lg:rounded-[18px] px-6 lg:px-4 text-lg font-semibold leading-[120%] cursor-pointer transition-colors duration-200 bg-white text-[#1E1E1E] hover:bg-[#1E1E1E] hover:text-white [&_svg_path]:fill-[#1E1E1E] hover:[&_svg_path]:fill-white">
-          8 (3952) 951-966
+        <a href="tel:+73952597939" class="inline-flex items-center justify-center gap-2.5 h-12 lg:h-9 rounded-3xl lg:rounded-[18px] px-6 lg:px-4 text-lg font-semibold leading-[120%] cursor-pointer transition-colors duration-200 bg-white text-[#1E1E1E] hover:bg-[#1E1E1E] hover:text-white [&_svg_path]:fill-[#1E1E1E] hover:[&_svg_path]:fill-white">
+          8 (3952) 59-79-39
         </a>
       </div>
     </header>
@@ -253,11 +253,11 @@
           <img src="/logo-white.svg" alt="Химэкоцентр">
         </div>
         <div class="flex items-center gap-4 lg:gap-14 max-[900px]:flex-col max-[900px]:justify-center max-[900px]:items-start max-[900px]:gap-6">
-          <a href="tel:+73952951966" class="text-white text-base lg:text-xl font-medium leading-[120%] hover:opacity-80 transition-opacity flex items-center gap-4">
+          <a href="tel:+73952597939" class="text-white text-base lg:text-xl font-medium leading-[120%] hover:opacity-80 transition-opacity flex items-center gap-4">
             <div class="rounded-full bg-[#2e333c] p-3">
               <img src="/phone-icon.svg" alt="Телефон">
             </div>
-            8 (3952) 951-966
+            8 (3952) 59-79-39
           </a>
         </div>
       </div>
